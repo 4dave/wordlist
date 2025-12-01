@@ -14,6 +14,7 @@ export default function Home() {
             Start typing to search through the wordlist. Results will
             auto-complete as you type.
           </p>
+          <p> selected word is logged to console</p>
         </div>
         <div className="w-full max-w-md">
           <Autocomplete />
